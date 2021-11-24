@@ -6,7 +6,7 @@ Diffusion-limited aggregation (DLA) is the process whereby particles undergoing 
 
 This program simulates such process with chosen grid size and particle count. Also image of the cluster is created. You can also calculate the fractal dimension of the created cluster.
 
-For more info see [Diffusion limited aggregation.pdf](https://github.com/pitkanenlauri/dla/blob/main/Diffusion%20limited%20aggregation.pdf).
+For info regarding the coursework assignment see [Diffusion limited aggregation.pdf](https://github.com/pitkanenlauri/dla/blob/main/Diffusion%20limited%20aggregation.pdf).
 
 ## How to use
 
