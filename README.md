@@ -1,10 +1,12 @@
-# Diffusion-limited aggregation
+# Diffusion-limited aggregation simulation
 
-Diffusion-limited aggregation simulation written in Python.
+Diffusion-limited aggregation simulation written in Python for simulation methods in physics coursework.
 
-Diffusion-limited aggregation (DLA) is the process whereby particles undergoing a random walk due to Brownian motion cluster together to form aggregates of such particles.
+Diffusion-limited aggregation (DLA) is the process whereby particles undergoing a random walk due to Brownian motion cluster together to form aggregates of such particles. [[Wikipedia](https://en.wikipedia.org/wiki/Diffusion-limited_aggregation)]
 
-This program simulates such process with chosen grid size and particle count creating an image of the formed cluster. You can also calculate the fractal dimension of the created cluster.
+This program simulates such process with chosen grid size and particle count. Also image of the cluster is created. You can also calculate the fractal dimension of the created cluster.
+
+For more info see [Diffusion limited aggregation.pdf](https://github.com/pitkanenlauri/dla/blob/main/Diffusion%20limited%20aggregation.pdf).
 
 ## How to use
 
@@ -22,3 +24,6 @@ This program simulates such process with chosen grid size and particle count cre
 
 ## Screenshots
 
+![Screenshot of the cluster.](/dla_screenshot_cluster10k.png)
+
+Picture of the cluster generated using 10 000 particles.
