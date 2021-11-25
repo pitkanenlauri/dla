@@ -248,7 +248,7 @@ def calculate_fractal_dimension(grid, center):
     # The first and last values in the data to be included in the fit.
     # Eyeballed to represend the linear part of the fit. ;)
     first_value = 0
-    last_value = -160
+    last_value = -10
 
     popt, pcov = curve_fit(linearfit, 
                             logsize[first_value:last_value],
